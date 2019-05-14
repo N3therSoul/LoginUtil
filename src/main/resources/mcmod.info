@@ -1,0 +1,16 @@
+[
+{
+  "modid": "skinmodpack_nether",
+  "name": "Forgia Utils",
+  "description": "Really kool utils wololo",
+  "version": "1{version}",
+  "mcversion": "${mcversion}",
+  "url": "www.parcometri.altervista.org",
+  "updateUrl": "",
+  "authorList": ["NetherSoul"],
+  "credits": "No credits, all me",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
