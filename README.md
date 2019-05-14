@@ -9,9 +9,9 @@ How
 ===
 The mod adds the following ingame commands:
 
-/register \<password\> \<password\>
+/register &\<password\> \<password\>
 
-/login \<password\>
+/login &\<password\>
 
-/replace \<oldpassword\> \<newpassword\>
+/replace &\<oldpassword\> \<newpassword\>
 
